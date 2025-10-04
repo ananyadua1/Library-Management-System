@@ -50,9 +50,3 @@ The Alchemist borrowed!
 * **Language:** Python 3
 * **Paradigm:** Object-Oriented Programming
 
-## 🧑‍💻 Author
-
-**Ananya Dua**
-📧 [[YourEmail@example.com](mailto:YourEmail@example.com)]
-🌐 [GitHub Profile](https://github.com/yourusername)
-
