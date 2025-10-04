@@ -1,29 +1,58 @@
-📚 Library Management System in Python
+# 📚 Library Management System in Python
 
-This is a simple Library Management System written in Python. It allows users to manage books and members in a library through a menu-driven console application.
+A simple command-line **Library Management System** built using Python’s object-oriented programming principles.
+It allows users to **add books**, **register members**, and manage **borrowing and returning** of books efficiently.
 
-✨ Features
+## 🚀 Features
 
-➕ Add new members
+* Add new members to the library
+* Add books with multiple copies
+* Borrow and return books
+* Display all available books and registered members
+* User-friendly menu-driven interface
 
-➕ Add new books (with quantity)
 
-📖 Borrow books (if available)
+## 🧠 Usage / Examples
 
-📤 Return borrowed books
+When you run the program, you’ll see a simple menu:
 
-👥 View all registered members
+```
+Library Menu:
 
-📚 View all available books
+1. Add Member
+2. Add Book
+3. Borrow Book
+4. Return Book
+5. Show all members
+6. Show all books
+7. Exit
+```
 
-📚 Exit the program
+Example interaction:
 
-🛠️ How It Works
+```
+Enter your choice: 1
+Enter member name: Alice
+New member added!
 
-When you run the program, a menu will appear with options.
+Enter your choice: 2
+Enter book name: The Alchemist
+Enter quantity: 5
 
-Enter the number corresponding to the action you want to perform.
+Enter your choice: 3
+Enter book you wish to borrow: The Alchemist
+Enter member name: Alice
+The Alchemist borrowed!
+```
 
-Follow the prompts (like entering a member name or book name).
+## 🧩 Tech
 
-The system updates automatically and displays results.
+* **Language:** Python 3
+* **Paradigm:** Object-Oriented Programming
+
+## 🧑‍💻 Author
+
+**Ananya Dua**
+📧 [[YourEmail@example.com](mailto:YourEmail@example.com)]
+🌐 [GitHub Profile](https://github.com/yourusername)
+
